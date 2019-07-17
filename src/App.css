@@ -1,0 +1,5 @@
+.App-main {
+  background: url(https://newevolutiondesigns.com/images/freebies/abstract-background-1.jpg) no-repeat center center;
+  background-size: cover;
+  min-height: calc(100vh - 56px);
+}
